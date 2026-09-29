@@ -1,0 +1,7 @@
+Sueno.xcodeproj/
+build/
+DerivedData/
+Payload/
+*.ipa
+xcodebuild.log
+.DS_Store
